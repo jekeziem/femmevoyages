@@ -1,2 +1,2 @@
 # femmevoyages
-a SQL mini project undertaken as course requirements
+a SQL Database project for managing travel bucket list and related information.
